@@ -1,11 +1,4 @@
-/*####################################*/
-/*######    EL562  GROUP 18     ######*/
-/*######    WEATHER STATION     ######*/
-/*######    BEN ZENG ZXBZ2      ######*/
-/*######   LIAM O'BRIEN LJO26   ######*/
-/*######  RAWAZ GARMIANI RG292  ######*/
-/*###### SAMUAL ADEKUNLE SOA26  ######*/
-/*####################################*/
+
 #include <string>
 #include <SFE_BMP180.h> 
 #include <DHT.h>
